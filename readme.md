@@ -426,7 +426,7 @@ The application will populate the exchange state automatically.
 ### 5. Start the monitor
 
 ```bash
-npm run dev
+npm run app
 ```
 
 The application periodically checks the configured exchanges and sends notifications when new listings are detected.
