@@ -1,5 +1,5 @@
 {
-  "name": "newlisting",
+  "name": "RasadX",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "vitest run"
   },
   "keywords": [],
-  "author": "",
+  "author": "Radinansari",
   "license": "ISC",
   "type": "module",
   "dependencies": {
